@@ -11,3 +11,5 @@
 <p align=“center”> <img src=https://github-readme-stats.vercel.app/api?username=AnkitSin24&show_icons=true alt=AnkitSin24 /> </p>
 https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif
 
+< https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif/>
+
