@@ -1,6 +1,5 @@
 ###  Hi there
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20Hi%20%This%20%Is%20%Ankit%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-SVG Banners
+[![SVG Banners](assests/hi.svg)](https://github.com/Akshay090/svg-banners)
 
 
 - 🌱 I’m currently learning Android Java
