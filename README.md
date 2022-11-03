@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know "Hello World" in all languages
 <p align=“center”> <img src=https://github-readme-stats.vercel.app/api?username=AnkitSin24&show_icons=true alt=AnkitSin24 /> </p>
-<img src="assests/coding-freak.gif" height="75%">
+<img src="assests/coding-freak.gif" height="50%">
 
